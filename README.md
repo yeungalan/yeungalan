@@ -5,6 +5,7 @@
 - 😄 Pronouns: He/him
 - 📙 Languages: English (US) / Chinese (Cantonese, Traditional)
 - 📍 Come from: Hong Kong
+- 🔭 I’m currently working on arozos
 
 
 <!--
