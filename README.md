@@ -1,4 +1,11 @@
 ### Hi there 👋
+## Welcome to my Github page!
+
+- 📫 How to reach me: ayeung@aytechnology.us
+- 😄 Pronouns: He/him
+- 📙 Languages: English (US) / Chinese (Cantonese, Traditional)
+- 📍 Come from: Hong Kong
+
 
 <!--
 **yeungalan/yeungalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
