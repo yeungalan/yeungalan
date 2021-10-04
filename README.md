@@ -6,7 +6,7 @@
 - 📙 Languages: English (US) / Chinese (Cantonese, Traditional)
 - 📍 Come from: Hong Kong
 - 🔭 I’m currently working on arozos
-- 💼 Linkedin: https://www.linkedin.com/in/alan-yeung-wa/
+- 💼 Linkedin: https://www.linkedin.com/in/ho-yeung
 
 <!--
 **yeungalan/yeungalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
