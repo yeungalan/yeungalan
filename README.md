@@ -1,12 +1,14 @@
-### Hi there 👋
-## Welcome to my Github page!
+### Hi there! 👋  
+## Welcome to my GitHub page!
 
-- 📫 How to reach me: ayeung@aytechnology.us
-- 😄 Pronouns: He/him
-- 📙 Languages: English (US) / Chinese (Cantonese, Traditional)
-- 📍 Come from: Hong Kong
-- 🔭 I’m currently working on arozos
-- 💼 Linkedin: https://www.linkedin.com/in/ho-yeung
+- 😄 **Pronouns:** He/Him  
+- 🌐 **Languages:** English (US) / Cantonese (Traditional Chinese)  
+- 📍 **Hometown:** Hong Kong
+- 🏙️ Currently Living In: Seattle, WA
+- 🔭 **Current Project:** arozos  
+- 💼 **LinkedIn:** [Alan Yeung on LinkedIn](https://www.linkedin.com/in/ho-yeung)  
+- 🏢 **Role:** Software Development Engineer I (SDE I) at AWS
+
 
 <!--
 **yeungalan/yeungalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
