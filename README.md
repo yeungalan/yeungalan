@@ -7,7 +7,7 @@
 - 🏙️ Currently Living In: Seattle, WA
 - 🔭 **Current Project:** arozos  
 - 💼 **LinkedIn:** [Alan Yeung on LinkedIn](https://www.linkedin.com/in/ho-yeung)  
-- 🏢 **Role:** Software Development Engineer I (SDE I) at AWS
+- 🏢 **Role:** Software Development Engineer I at AWS
 
 
 <!--
